@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GelatoClicker</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_how_to">How to</string>
+    <string name="btn_about">About</string>
+    <string name="info_rules">Rules</string>
+    <string name="info_rule_set">This is a simple \'Clicker game\', so the rules are easy.  \n\n  * Click the ice cream to collect points \n * Buy farmers to increase your income \n * Reach the final level!  \n\n And that about wraps it up!</string>
+    <string name="about_tv_about_me">This is a novel clicker game i made for a school assignment. I\'m currently finishing my last term before graduating \'Computer Science and Application development\' at Malmoe University.   \n\nThis was a fun little app to make, most of the time i spent on it went on finding assets and deciding on a theme for the app. I currently got some plans on future improvements i can make but for now this is version 1. \n\nEnjoy! :)</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffd4e5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorMain">#32CD32</color>
+    <color name="colorSplash">#05EDFF</color>
+
+    <color name="colorGame1">#ff3155</color>
+    <color name="colorGame2">#ffaf42</color>
+    <color name="colorGame3">#49f770</color>
+    <color name="colorGame4">#2daefd</color>
+    <color name="colorGame5">#a618d1</color>
+
+</resources>
